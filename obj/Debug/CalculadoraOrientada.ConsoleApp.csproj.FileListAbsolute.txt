@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\bin\Debug\CalculadoraOrientada.ConsoleApp.exe.config
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\bin\Debug\CalculadoraOrientada.ConsoleApp.exe
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\bin\Debug\CalculadoraOrientada.ConsoleApp.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\obj\Debug\CalculadoraOrientada.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\obj\Debug\CalculadoraOrientada.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\obj\Debug\CalculadoraOrientada.ConsoleApp.exe
+C:\Users\Cliente\Desktop\Academia do Programador\CalculadoraOrientada.ConsoleApp\obj\Debug\CalculadoraOrientada.ConsoleApp.pdb
